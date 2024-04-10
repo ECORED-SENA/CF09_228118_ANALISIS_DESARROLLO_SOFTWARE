@@ -2,14 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 30%
+    right: 60%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 81%
+    right: 10%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 21%
+    right: 15%
 
 @keyframes float1
   0%
@@ -17,3 +21,34 @@
 
   100%
     transform: translateY(0px)
+.mn
+  margin: 0 -3rem
+.titulo-principal__numero
+  i, span
+    color: $color-sistema-texto !important
+.tarjeta--morada
+  background-color: #3a1d71
+.acordion__activo
+  background-color: #ead6fc
+  .acordion__header
+
+    h3
+      color: $color-sistema-texto
+.acordion__accion__btn--a
+  background-color: $color-acento-botones
+.titulo-tres-icon
+  margin-bottom: 1rem
+  position: relative
+  display: inline-block
+  border-radius: 8px
+  background: rgb(119,55,240)
+  background: linear-gradient(170deg, rgba(119,55,240,1) 0%, rgba(41,17,85,1) 100%)
+  h3
+    color: white
+    margin-bottom: 0
+    margin-left: 60px
+    margin-right: 30px
+  &:before
+    content: url(../assets/curso/temas/icon.svg)
+    position: absolute
+    top: -10px
