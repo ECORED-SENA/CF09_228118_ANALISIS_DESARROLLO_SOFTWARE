@@ -94,32 +94,53 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Paradigma orientado a objetos',
+      referencia:
+        'EDteam. (2019). <em>¿Qué es la programación orientada a objetos? La mejor explicación en español.</em>',
+      tipo: 'YouTube ',
+      link: 'https://youtu.be/DlphYPc_HKk',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Paradigma orientado a objetos',
+      referencia:
+        'Soy Dalto. (2019). <em>Programación orientada a objetos explicada en 10 minutos</em>.',
+      tipo: 'YouTube',
+      link: 'https://youtu.be/uNlB7141umY ',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Algoritmo',
+      significado:
+        'secuencia de pasos ordenados y finitos que describen un conjunto de acciones para resolver un problema.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Paradigma',
+      significado:
+        'ejemplo o modelo de algo. En el caso del paradigma orientado a objetos corresponde a un conjunto de características y formas en la que se representa la información.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Aguilar, J. L. (2021). <em>Fundamentos de programación.</em> McGraw Hill Education.',
+    },
+    {
+      referencia:
+        'Aguilar, L. J. (1998). <em>Programación orientada a objetos.</em> McGraw Hill Education.',
+    },
+    {
+      referencia:
+        'Booch, G., Maksimchuk, R. A., Engle, M. W., Conallen, J., Young, B. J. & Houston, K. A. (2007). <em>Object-oriented Analysis and Design with Applications.</em> Addison-Wesley.',
+    },
+    {
+      referencia:
+        'Rumbaugh, J., Jacobson, I., & Booch, G. (2004). <em>El lenguaje unificado de modelado.</em> Addison-Wesley.',
+    },
+    {
+      referencia:
+        'Samuel. (2020). <em>¿Qué es la POO?. [Web log post] Fundamentos de las POO.</em>',
+      link: 'http://micanalsamuelc.blogspot.com/2017/03',
     },
   ],
   creditos: [
@@ -142,9 +163,22 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Zulema Yidney León Escobar',
+          cargo: 'Experta temática ',
+          centro:
+            'Regional Cauca - Centro de Teleinformática y Producción Industrial',
+        },
+        {
+          nombre: 'Jonathan Guerrero Astaiza',
+          cargo: 'Experta temático',
+          centro:
+            'Regional Cauca - Centro de Teleinformática y Producción Industrial',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Regional Cauca - Centro de Teleinformática y Producción Industrial',
         },
       ],
     },
@@ -152,23 +186,13 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Carlos Julian Ramirez',
           cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Edgar Mauricio Cortes García',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
