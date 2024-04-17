@@ -14,7 +14,7 @@
           .col-lg-2.d-lg-block.d-none.imagen-ab__img: img(src='@/assets/curso/temas/1.svg', alt='')
           .col-lg-2.col-7.d-block.d-none: img(src='@/assets/curso/temas/1.svg', alt='')
           .col-lg-10
-            p.mb-0 ¿ Sabías que algunos de los elementos fundamentales que se usan para la descripción de un algoritmo en un lenguaje de programación, son los identificadores? Estos pueden ser variables o constantes, dependiendo del comportamiento de los valores que registramos en ellos. 
+            p.mb-0 ¿Sabías que algunos de los elementos fundamentales que se usan para la descripción de un algoritmo en un lenguaje de programación, son los identificadores? Estos pueden ser variables o constantes, dependiendo del comportamiento de los valores que registramos en ellos. 
       .row.justify-content-center.mb-5
         .col-lg-7.mb-lg-0.mb-3
           p Estos identificadores se componen principalmente de tres elementos: nombre del identificador, valor almacenado y posición física de la memoria donde se encuentra. Para poder utilizar identificadores, se debe realizar el proceso de declaración del identificador, donde se define el tipo de dato asociado, el cual indica el tamaño a reservar en la memoria y el nombre de dicho identificador.  

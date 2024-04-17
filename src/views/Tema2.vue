@@ -9,10 +9,8 @@
     .row.justify-content-center.mb-5
       .col-lg-7.mb-lg-0.mb-3
         p Las clases y objetos son el corazón de la programación orientada a objetos y en la construcción de estos elementos, se refleja cada una de las características del paradigma orientado a objetos revisado en el apartado anterior. Algunas veces parece que ambos elementos se traslapan y algunas otras veces se suele hablar de forma indiscriminada de estos dos elementos, por lo cual, a continuación, se ampliará la revisión para comprender sus características y diferencias. 
-          br
-          br
-          |Un objeto en el paradigma orientado a objetos representa un objeto del mundo real, el objeto debe ser especializado y solo se encarga de una tarea. 
-      .col-lg-5.col-7: img(src='@/assets/curso/temas/11.svg', alt='')
+        p Un objeto en el paradigma orientado a objetos representa un objeto del mundo real, el objeto debe ser especializado y solo se encarga de una tarea. 
+      .col-lg-5: img(src='@/assets/curso/temas/11.svg', alt='')
     h4 Un objeto puede ser: 
     .fondo-3.mb-5.p-3
       .row.justify-content-center
@@ -58,11 +56,10 @@
         .col-lg-8
           .tabla-a.color-acento-botones.mb-5
             table
-              caption Leyenda de la tabla
               thead.border-0
                 tr(style="background-color: #00ffdf")
-                  th 
-                  th 
+                  th Elemento
+                  th Descripción
               tbody
                 tr
                   td Identidad (nombre). 
@@ -79,7 +76,7 @@
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 3. 
           span Ejemplo clases y objetos
-        img(src='@/assets/curso/temas/18.svg', alt='La imagen describe lo que es una clase, los objetos se presentan como personajes, los cuales representan los objetos de una clase, estos tienen atributos y propiedades como: nombre, apellido, edad, estatura, género y también cuentan con métodos como comer, hablar, reír.')
+        img(src='@/assets/curso/temas/18b.svg', alt='La imagen describe lo que es una clase, los objetos se presentan como personajes, los cuales representan los objetos de una clase, estos tienen atributos y propiedades como: nombre, apellido, edad, estatura, género y también cuentan con métodos como comer, hablar, reír.')
     p.mb-5(data-aos='fade-right') Una clase es un tipo de dato definido por el usuario, no existe en forma concreta, debido a que es solo una abstracción. A partir de la definición de una clase, se pueden construir objetos. Las clases son equivalentes a los tipos de datos y los objetos son los identificadores que se crean a partir de este tipo particular de dato. 
       br
       br
@@ -89,7 +86,7 @@
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 4. 
           span Estructura de una clase y objetos 
-        img(src='@/assets/curso/temas/19.svg', alt='Imagen que presenta la estructura de una clase y objetos.')
+        img(src='@/assets/curso/temas/19b.svg', alt='Imagen que presenta la estructura de una clase y objetos.')
     .fondo-2.mn.p-5
       .titulo-tres-icon.p-3
         h3 Atributos
