@@ -38,7 +38,7 @@
           .bloque-texto-d.color-secundario.p-4
             .bloque-texto-d__texto.mb-2
               i.fas.fa-quote-left(style="color: #3a1d71")
-              h3.text-regular La abstracción es un proceso natural del ser humano y consiste esencialmente en la identificación de características claves según el contexto y conocimiento de las personas. De tal forma, se constituye en el medio mediante el cual se enfrentan los problemas complejos para extraer las características esenciales y posteriormente, representar dichas características en objetos.
+              h3.text-regular La abstracción es un proceso natural del ser humano y consiste esencialmente en la identificación de características claves según el contexto y conocimiento de las personas. De tal forma, se constituye en el medio mediante el cual se enfrentan los problemas complejos para extraer las características esenciales y posteriormente, representar dichas características en objetos. 
                 br
                 br
                 |La abstracción se enfoca en la vista externa de los elementos, lo cual permite separar su comportamiento esencial de su implementación e ignorar detalles internos. Mediante la abstracción hay un énfasis en el qué es y qué hace y no en el cómo debe implementarse o cómo funciona algo.
