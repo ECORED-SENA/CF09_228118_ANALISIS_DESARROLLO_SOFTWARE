@@ -45,7 +45,7 @@
               i.fas.fa-quote-right(style="color: #3a1d71")
             .bloque-texto-d__autor 
               .h5.mb-0 - Aguilar, 2021
-      p #[b Analicemos el siguiente ejemplo, sobre el proceso de abstracción..] 
+      p #[b Analicemos el siguiente ejemplo, sobre el proceso de abstracción.] 
         br 
         | En diferentes escenarios se aplican ciertos niveles de abstracción, por ejemplo, a la hora de decidir qué teléfono celular se desea comprar.
       .row.justify-content-center.mb-4
@@ -56,7 +56,7 @@
             div(titulo="Adolescente ")
               p.mb-0 Probablemente una persona más joven, por ejemplo, un adolescente, podría interesarle más las capacidades para soportar diferentes tipos de archivos multimedia y la velocidad con la que se puedan ejecutar juegos. 
             div(titulo="Desarrollador ")
-              p.mb-0 Una persona que desarrolla #[em software] para móviles, podrían interesarle más otras características como el tipo de sistema operativo, la operatividad con los sensores disponibles, y cosas de ese estilo. 
+              p.mb-0 Una persona que desarrolla #[em software] para móviles, podría interesarle más otras características como el tipo de sistema operativo, la operatividad con los sensores disponibles, y cosas de ese estilo. 
         .col-lg-5.col-7.mb-lg-0.mb-3(data-aos="fade-left"): img(src='@/assets/curso/temas/4.png', alt='')
       p.mb-5(data-aos='fade-right') Podemos concluir que lo que se busca ahora, es llevar ese mismo proceso para entender la esencia de los problemas complejos a desarrollar, y construir, a partir de esas abstracciones, que representan todos los elementos involucrados. 
     .titulo-tres-icon.p-3
